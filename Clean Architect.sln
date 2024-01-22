@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean_Architect.Application", "Clean Architect\Clean_Architect.Application.csproj", "{1AB70748-F9D6-4710-BBF1-6459DF13C73B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean_Architect", "Clean Architect\Clean_Architect.csproj", "{1AB70748-F9D6-4710-BBF1-6459DF13C73B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
